@@ -17,6 +17,7 @@ TO DO (in future may be):
 1) Replace opencv module with less space consuming (to make more compact executables)
 2) Copy EXIF from RAW to TIFF
 3) Add support of ARQ input files (when rawpy and it's libraries will support it and API released)
+4) Make Windows single-file executable
 
 Requires:
 - Python 2.7.x (64 bit!)
