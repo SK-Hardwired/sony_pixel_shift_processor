@@ -1,4 +1,4 @@
-# sony_pixel_shift_processor
+# Sony Pixel Shift Processor - assembly of PSMS RAW files from Sony ILCE-7RM3 (A7RM3)
 Own rough implementation of processing (assemble) sony pixel-shift RAW files
 
 Usage:
