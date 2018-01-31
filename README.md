@@ -1,6 +1,14 @@
 # Sony Pixel Shift Processor - assembly of PSMS RAW files from Sony ILCE-7RM3 (A7RM3)
 Own rough implementation of processing (assemble) sony pixel-shift RAW files
 
+There are 2 experimental Win64 builds:
+
+**OpenCV-based, 50 mb size (16 bit TIFF export)
+
+**PIL-based, ~25 mb size (8 bit TIFF exrpot only)
+
+**Grab here - https://drive.google.com/open?id=12B7M-CB-NoO0EIPNVZpPE0AaLKCeaSv8
+
 Usage:
 
 1) Start script
